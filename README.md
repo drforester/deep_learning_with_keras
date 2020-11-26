@@ -49,4 +49,4 @@ A simple example in two parts:
 #### My Favorite Keras References
 1. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition)
 2. [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems)
-3. [The Official Keras Website](https://keras.io/)
+3. [The Official Keras Documentation](https://keras.io/)
